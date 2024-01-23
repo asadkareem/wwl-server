@@ -1,0 +1,5 @@
+serviceAccountKey.json
+/node_modules
+.idea
+*.env
+serviceAccountKey.json
